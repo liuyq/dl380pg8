@@ -1,1 +1,1 @@
-# dl380pg8
+Place to put documents about hp dl380p g8 server
